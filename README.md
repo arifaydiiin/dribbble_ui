@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Bu proje dribbble üzerinden alınan tasarımın flutterda hayata geçirilmesidir.
 
-A few resources to get you started if this is your first Flutter project:
+## Dribbble ekran görüntüsü
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/65566449/163491640-b0730663-406f-49f1-8c74-ea6785083866.png" data-canonical-src="https://user-images.githubusercontent.com/65566449/163491640-b0730663-406f-49f1-8c74-ea6785083866.png" width="200" height="400" />
+
+
+## Flutter oluşturulan ekran görüntüsü
+
+
+<img src="https://user-images.githubusercontent.com/65566449/163491737-7e1ef0bf-f412-43f7-b661-80deae53c1fa.png" data-canonical-src="https://user-images.githubusercontent.com/65566449/163491737-7e1ef0bf-f412-43f7-b661-80deae53c1fa.png" width="200" height="400" />
+
+
